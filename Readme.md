@@ -6,7 +6,7 @@ This is a Python implementation of the Saboteur board game. The game is played b
 ## Installation
 1. Clone the repository: 
    ```
-   git clone https://github.com/your-username/saboteur-game.git
+   git clone [https://github.com/your-username/saboteur-game.git](https://github.com/frenchafgan/Saboteur-game)
    ```
 2. Install the required packages: 
    ```
