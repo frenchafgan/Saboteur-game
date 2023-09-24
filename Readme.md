@@ -37,7 +37,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 3. **User Interface**
    - Creating a user-friendly interface for the game.
 
-Feel free to ask questions or seek guidance in any of these areas.
-```
-
-You can copy and paste this into your README.md file to provide a comprehensive guide for your Saboteur Game project.
